@@ -1,0 +1,88 @@
+.header {
+	background-color: #f1f1f1;
+	padding: 20px;
+	text-align: center;
+	background-image: url('https://imgs.search.brave.com/_OeIrmVjkn0UphgXr9Ch_wnn9PhEw-bVbW9s1cXlTEM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaGFy/ZWQuYWthbWFpLnN0/ZWFtc3RhdGljLmNv/bS9zdG9yZV9pdGVt/X2Fzc2V0cy9zdGVh/bS9hcHBzLzEyNTY2/NzAvbGlicmFyeV9o/ZXJvLmpwZz90PTE2/NzA5ODA1MTY');
+	background-repeat: no-repeat;
+	background-position: center;
+  background-size: cover;
+  color:rgb(0, 0, 0);
+}
+
+#footer {
+    position: fixed;
+    background-image: url('https://wallpapercave.com/wp/wp11338759.jpg');
+    bottom: 0px;
+    width: 100vw;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: center;
+    color: white;
+}
+
+
+
+.table1 {
+  width: 100%;
+  border-collapse: collapse;
+  padding: 10px;
+  background-color: burlywood;
+  table-layout: fixed;
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table2 {
+  width: 100%;
+  border-collapse: collapse;
+  padding: 10px;
+  background-color: rgb(216, 172, 114);
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table3 {
+  width: 100%;
+  border-collapse: collapse;
+  padding: 10px;
+  background-color: rgb(192, 149, 94);
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+.p {
+  text-align: center;
+  text-align: bottom;
+  color: white;
+}
+nav {
+  text-align: center;
+
+
+  
+}
+body {
+  border-right-color: #9b7742;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url('');
+
+}
+.teksti {
+  border-width: 1px;
+  text-align: center;
+  color: white;
+}
+.yhteys {
+  border-width: 1px;
+  text-align: center;
+  color: rgb(0, 132, 255);
+  background-color: #ffffff;
+ .yhteys:hover {
+    background-color: #9b9b9c;
+    -webkit-transition: background-color 500ms linear;
+    -ms-transition: background-color 500ms linear;
+    transition: background-color 500ms linear;
+}
+}
