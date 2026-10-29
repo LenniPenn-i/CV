@@ -1,6 +1,6 @@
 .header {
 	background-color: #f1f1f1;
-	padding: 20px;
+	padding: 30px;
 	text-align: center;
 	background-image: url('https://imgs.search.brave.com/_OeIrmVjkn0UphgXr9Ch_wnn9PhEw-bVbW9s1cXlTEM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaGFy/ZWQuYWthbWFpLnN0/ZWFtc3RhdGljLmNv/bS9zdG9yZV9pdGVt/X2Fzc2V0cy9zdGVh/bS9hcHBzLzEyNTY2/NzAvbGlicmFyeV9o/ZXJvLmpwZz90PTE2/NzA5ODA1MTY');
 	background-repeat: no-repeat;
@@ -50,6 +50,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+.table4 {
+  width: 100%;
+  border-collapse: collapse;
+  padding: 10px;
+  background-color: rgb(197, 140, 71);
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+}
 .p {
   text-align: center;
   text-align: bottom;
@@ -57,13 +66,14 @@
 }
 nav {
   text-align: center;
+  padding: 5px;
+  
 
 
   
 }
 body {
-  border-right-color: #9b7742;
-
+background-color: #9b7742;
 background-repeat: no-repeat;
 background-size: cover;
 background-image: url('');
